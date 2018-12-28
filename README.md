@@ -1,5 +1,12 @@
 # Rossmann Store Prediction
 
+## 介绍
+
+本次项目是利用 Kaggle 比赛 Rossmann Store Sales 进行实验
+- https://www.kaggle.com/c/rossmann-store-sales
+
+
+## 分析报告
 详细的分析报告参看"report.pdf"
 
 ## Python env
